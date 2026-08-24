@@ -5,3 +5,5 @@
 src/main.rs:
 src/cli.rs:
 src/csv.rs:
+
+# env-dep:CARGO_PKG_NAME=csv_parser

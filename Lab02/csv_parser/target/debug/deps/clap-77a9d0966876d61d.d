@@ -1,0 +1,9 @@
+/Users/andreamarranca/Documents/Università/POLITO/Primo Anno/Secondo Semestre/Programmazione Di Sistema/Laboratori-Rust/Lab02/csv_parser/target/debug/deps/clap-77a9d0966876d61d.d: /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/lib.rs /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.rs /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.md
+
+/Users/andreamarranca/Documents/Università/POLITO/Primo Anno/Secondo Semestre/Programmazione Di Sistema/Laboratori-Rust/Lab02/csv_parser/target/debug/deps/libclap-77a9d0966876d61d.rlib: /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/lib.rs /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.rs /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.md
+
+/Users/andreamarranca/Documents/Università/POLITO/Primo Anno/Secondo Semestre/Programmazione Di Sistema/Laboratori-Rust/Lab02/csv_parser/target/debug/deps/libclap-77a9d0966876d61d.rmeta: /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/lib.rs /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.rs /Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.md
+
+/Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/lib.rs:
+/Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.rs:
+/Users/andreamarranca/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.6.6/src/../examples/demo.md:

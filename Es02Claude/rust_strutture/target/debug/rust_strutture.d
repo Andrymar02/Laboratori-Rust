@@ -1,0 +1,1 @@
+/Users/andreamarranca/Documents/Università/POLITO/Primo\ Anno/Secondo\ Semestre/Programmazione\ Di\ Sistema/Laboratori-Rust/Es02Claude/rust_strutture/target/debug/rust_strutture: /Users/andreamarranca/Documents/Università/POLITO/Primo\ Anno/Secondo\ Semestre/Programmazione\ Di\ Sistema/Laboratori-Rust/Es02Claude/rust_strutture/src/main.rs

@@ -1,0 +1,1 @@
+/Users/andreamarranca/Documents/Università/POLITO/Primo\ Anno/Secondo\ Semestre/Programmazione\ Di\ Sistema/Laboratori-Rust/Magazzino/magazzino/target/debug/magazzino: /Users/andreamarranca/Documents/Università/POLITO/Primo\ Anno/Secondo\ Semestre/Programmazione\ Di\ Sistema/Laboratori-Rust/Magazzino/magazzino/src/main.rs

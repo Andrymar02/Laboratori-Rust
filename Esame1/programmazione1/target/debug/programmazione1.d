@@ -1,0 +1,1 @@
+/Users/andreamarranca/Documents/Università/POLITO/Primo\ Anno/Secondo\ Semestre/Programmazione\ Di\ Sistema/Laboratori-Rust/Esame1/programmazione1/target/debug/programmazione1: /Users/andreamarranca/Documents/Università/POLITO/Primo\ Anno/Secondo\ Semestre/Programmazione\ Di\ Sistema/Laboratori-Rust/Esame1/programmazione1/src/main.rs
